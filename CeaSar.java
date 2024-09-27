@@ -1,4 +1,4 @@
-package week1;
+package myprojects;
 
 
 import java.io.BufferedReader;
