@@ -22,7 +22,7 @@ import javax.swing.JOptionPane;
  * @author Administrator
  */
 public class CeaSar extends javax.swing.JFrame {
-
+    //Nho khai bao
     /**
      * Creates new form GIAODIENBAI1
      */
